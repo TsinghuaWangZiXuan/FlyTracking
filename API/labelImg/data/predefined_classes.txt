@@ -1,0 +1,5 @@
+female
+male
+wing
+head
+tail

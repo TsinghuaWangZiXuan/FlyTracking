@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Tracker</class>
+ <widget class="QDialog" name="Tracker">
+  <property name="enabled">
+   <bool>true</bool>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>765</width>
+    <height>572</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="Label">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>151</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Label</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Train">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>60</y>
+     <width>151</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Train</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Detect">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>120</y>
+     <width>151</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Detect</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Track">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>180</y>
+     <width>151</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Track</string>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="textBrowser">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>0</y>
+     <width>611</width>
+     <height>571</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

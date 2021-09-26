@@ -1,0 +1,5 @@
+DEEPSORT:
+  WEIGHTS: 'yolov5/weights/gender.pt'
+  SOURCE: 'deepsort/data/20200914_103828_3D_20.avi'
+  CONF_THRES: 0.6
+  IOU_THRES: 0.4

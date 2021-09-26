@@ -1,0 +1,6 @@
+YOLOV5:
+  WEIGHTS: 'yolov5/weights/best.pt'
+  SOURCE: 'yolov5/data/Samples'
+  CONF_THRES: 0.6
+  IOU_THRES: 0.4
+  MAX_DET: 100

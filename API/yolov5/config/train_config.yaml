@@ -1,0 +1,5 @@
+YOLOV5:
+  WEIGHTS: 'yolov5m.pt'
+  DATA: 'yolov5/data/fly.yaml'
+  EPOCHS: 1
+  BATCH_SIZE: 5
