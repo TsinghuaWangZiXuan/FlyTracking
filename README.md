@@ -10,7 +10,11 @@ Use the following command to run our interface:
     python main.py
 
 ## Make your own datasets
-Click the "label" button to make your own datasets using LbelImg.
+Click the "label" button to make your own datasets using LabelImg.
 
 ## Train the model
-Click the "train" button to train your model based on your dataset.
+Click the "train" button to train your model based on your dataset. Before trainning, you should modify the parameters in the file:
+
+    API/yolov5/config/train_config.yaml
+    
+To make parameters suitabel for your model, you can try different combinations and evaluate the performance of models.
