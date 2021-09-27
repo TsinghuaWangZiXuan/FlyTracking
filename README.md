@@ -7,7 +7,7 @@ This project trained a model based on YOLOv5 and DeepSORT and built an interface
 ## Run
 Use the following command to run our interface:
 
-    python main.py
+    python API/main.py
 
 ## Make your own datasets
 Click the "label" button to make your own datasets using LabelImg.
