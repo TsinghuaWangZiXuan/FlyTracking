@@ -37,7 +37,7 @@ Click "train" button to train your model based on your dataset. Before training,
 
     API/yolov5/config/train_config.yaml
     
-Then, put your datasets (images and annotation) in corresponding foldes:
+Then, put your datasets (images and annotation) in corresponding folders:
 
     API/yolov5/data/
     
