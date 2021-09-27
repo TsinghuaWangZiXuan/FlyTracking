@@ -10,4 +10,7 @@ Use the following command to run our interface:
     python main.py
 
 ## Make your own datasets
-Click the label button to 
+Click the "label" button to make your own datasets using LbelImg.
+
+## Train the model
+Click the "train" button to train your model based on your dataset.
